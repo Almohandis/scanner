@@ -330,3 +330,6 @@
     <script src="http://2.77.240.204/bower_components/bootstrap3-ie10-viewport-bug-workaround/ie10-viewport-bug-workaround.js"></script>
 
 </body></html>
+
+
+https://files.support.epson.com/docid/cpd5/cpd58812/source/product_info/epson_connect/tasks/scan_to_cloud.html
